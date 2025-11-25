@@ -4,6 +4,7 @@ To simulate an operational amplifier based differentiator to differentiate signa
 ## Apparatus required:
 PC with LT Spice Software
 ## Circuit Diagram:
+<img width="1918" height="915" alt="image" src="https://github.com/user-attachments/assets/64223378-9407-4bf9-8f36-64b16cedef84" />
 
 ## Simulation Procedure:
 1.	Open the Ltspice software
@@ -39,5 +40,11 @@ PC with LT Spice Software
 16.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## Output:
+### INPUT WAVEFORM
+<img width="953" height="876" alt="image" src="https://github.com/user-attachments/assets/d110acd7-1bff-4298-8510-d6ee3b7e7750" />
 
+### OUTPUT WAVEFORM
+<img width="953" height="836" alt="image" src="https://github.com/user-attachments/assets/b3c7c969-3c2a-4237-b7af-8311f08887df" />
 ## Result:
+![fca5ce45-4474-4696-b245-604f69903254](https://github.com/user-attachments/assets/ee5152ee-53fc-4362-9623-d4d00e263409)
+
